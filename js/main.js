@@ -4,6 +4,7 @@ const quotes = [
   "The purpose of our lives is to be happy.",
   "You only live once, but if you do it right, once is enough.",
   "Be the change that you wish to see in the world.",
+  "The only limit to our realization of tomorrow is our doubts of today.",
   "It does not matter how slowly you go as long as you do not stop.",
 ];
 
