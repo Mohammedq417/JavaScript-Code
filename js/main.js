@@ -5,10 +5,11 @@ const quotes = [
   "You only live once, but if you do it right, once is enough.",
   "Be the change that you wish to see in the world.",
   "The only limit to our realization of tomorrow is our doubts of today.",
-  "It does not matter how slowly you go as long as you do not stop.",
+  "It does not matter how slowly you go as long as you do not stop."
 ];
 
-let
+let lastQuote = "";
+
 function showQuote() {
   let randomIndex;
   let randomQuote;
